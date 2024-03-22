@@ -1,16 +1,9 @@
-body {
-    background-color: rgb(110, 223, 227);
-}
-img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 500px;
-    border-radius: 15px;
-    border: 20px solid red;
-    margin-top: 20px;
-    
-    align-items: center;
-    background-color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
+h1 {
+    text-decoration: underline;
+  }
+  li{
+    display:inline;
+    padding: 8px;
+  background-color: #dddddd;
+
+  }
